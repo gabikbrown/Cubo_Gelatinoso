@@ -1,5 +1,5 @@
 # Criatura lendária: Cubo Gelatinoso
 
-*Autora:* Gabriela Cabral
-*Ilum - Escola de ciência*
-*Centro Nacional de Pesquisa em Energia e Materiais*
+**Autora:** Gabriela O. de Lima Cabral\
+**Ilum - Escola de ciência**\
+**Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**
