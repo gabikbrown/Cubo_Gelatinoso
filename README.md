@@ -6,5 +6,3 @@
 **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**
 
 
-Trabalho do segundo semestre de 2026 da matéria Machine Learning
-
