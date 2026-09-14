@@ -33,15 +33,6 @@ Foram avaliados 312 conjuntos de hiperparâmetros, organizados em três experime
 
 Melhor conjunto: MaxAbsScaler + one-hot + k = 21 + distância Euclidiana: acurácia de 88,68% e acurácia balanceada de 86,57% no teste, contra 69,81% e 50% do baseline. O modelo identifica 13 dos 16 doentes do teste e 34 dos 37 saudáveis.
 
-## Estrutura do repositório
-
-```
-.
-- CuboGelationoso_GabrielaCabral.ipynb   # notebook principal: código, gráficos e discussão
-- data.csv                                # conjunto de dados (baixar à parte, ver acima)
-- 
-- README.md
-```
 ## Como executar
 ```bash
 git clone <url-deste-repositório>
