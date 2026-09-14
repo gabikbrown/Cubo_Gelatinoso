@@ -35,8 +35,8 @@ Melhor conjunto: MaxAbsScaler + one-hot + k = 21 + distância Euclidiana: acurá
 
 ## Como executar
 ```bash
-git clone <url-deste-repositório>
-cd cubo-gelatinoso
+git clone <https://github.com/gabikbrown/Cubo_Gelatinoso.git>
+cd Cubo_Gelatinoso
 pip install numpy pandas seaborn matplotlib scikit-learn
 jupyter notebook CuboGelationoso_GabrielaCabral.ipynb
 ```
