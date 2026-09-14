@@ -36,7 +36,7 @@ Melhor conjunto: MaxAbsScaler + one-hot + k = 21 + distância Euclidiana: acurá
 ## Estrutura do presente repositório
 
 - CuboGelationoso_GabrielaCabral26.ipynb --> notebook principal: código, gráficos e discussão
-- data.csv --> conjunto de dados
+- data.xls --> conjunto de dados utilizado
 - Cabecalho.png  --> cabeçalho anexado no início dessa seção
 - README.md
 
