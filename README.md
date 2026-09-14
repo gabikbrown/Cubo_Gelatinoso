@@ -51,9 +51,12 @@ jupyter notebook CuboGelationoso_GabrielaCabral26.ipynb
 Como o `data.csv` já vem junto no git clone, o notebook roda do início ao fim sem etapas manuais adicionais.
 
 ## Referências
-CASSAR, Daniel R. ATP-203 – Aprendizado de Máquina: notebooks 1.0 a 5.0. Material didático da disciplina, Ilum Escola de Ciência, CNPEM, 2026.\
-JANOSI, A. et al. Heart Disease [conjunto de dados]. UCI Machine Learning Repository, 1989.\
-PEDREGOSA, F. et al. Scikit-learn: machine learning in Python. Journal of Machine Learning Research, v. 12, 2011.\
-ANTHROPIC. Claude [assistente de IA]. 2026.
+- CASSAR, Daniel R. ATP-203 – Aprendizado de Máquina: notebooks 1.0 a 5.0. Material didático da disciplina, Ilum Escola de Ciência, CNPEM, 2026.
+
+- JANOSI, A. et al. Heart Disease [conjunto de dados]. UCI Machine Learning Repository, 1989.
+
+- PEDREGOSA, F. et al. Scikit-learn: machine learning in Python. Journal of Machine Learning Research, v. 12, 2011.
+
+- ANTHROPIC. Claude [assistente de IA]. 2026.
 
 Lista completa, no padrão ABNT, no notebook.
