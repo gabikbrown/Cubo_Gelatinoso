@@ -1,3 +1,6 @@
+![Imagem](Cabecalho.png)
+
+
 # Criatura lendária: Cubo Gelatinoso
 
 **Autora:** Gabriela O. de Lima Cabral\
