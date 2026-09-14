@@ -34,7 +34,6 @@ Foram avaliados 312 conjuntos de hiperparâmetros, organizados em três experime
 Melhor conjunto: MaxAbsScaler + one-hot + k = 21 + distância Euclidiana: acurácia de 88,68% e acurácia balanceada de 86,57% no teste, contra 69,81% e 50% do baseline. O modelo identifica 13 dos 16 doentes do teste e 34 dos 37 saudáveis.
 
 ## Estrutura do presente repositório
-
 - CuboGelationoso_GabrielaCabral26.ipynb --> notebook principal: código, gráficos e discussão
 - data.xls --> conjunto de dados utilizado
 - Cabecalho.png  --> cabeçalho anexado no início dessa seção
@@ -49,5 +48,12 @@ cd Cubo_Gelatinoso
 pip install numpy pandas seaborn matplotlib scikit-learn notebook
 jupyter notebook CuboGelationoso_GabrielaCabral26.ipynb
 ```
-
 Como o `data.csv` já vem junto no git clone, o notebook roda do início ao fim sem etapas manuais adicionais.
+
+## Referências
+CASSAR, Daniel R. ATP-203 – Aprendizado de Máquina: notebooks 1.0 a 5.0. Material didático da disciplina, Ilum Escola de Ciência, CNPEM, 2026.\
+JANOSI, A. et al. Heart Disease [conjunto de dados]. UCI Machine Learning Repository, 1989.\
+PEDREGOSA, F. et al. Scikit-learn: machine learning in Python. Journal of Machine Learning Research, v. 12, 2011.\
+ANTHROPIC. Claude [assistente de IA]. 2026.
+
+Lista completa, no padrão ABNT, no notebook.
