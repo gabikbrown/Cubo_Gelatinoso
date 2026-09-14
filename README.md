@@ -5,6 +5,7 @@
   
 # Criatura lendária: Cubo Gelatinoso
 </div>
+
 **Autora:** Gabriela O. de Lima Cabral\
 **Professor:** Daniel Roberto Cassar\
 **Ilum - Escola de ciência**\
