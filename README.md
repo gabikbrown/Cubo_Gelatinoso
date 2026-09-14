@@ -34,11 +34,13 @@ Foram avaliados 312 conjuntos de hiperparâmetros, organizados em três experime
 Melhor conjunto: MaxAbsScaler + one-hot + k = 21 + distância Euclidiana: acurácia de 88,68% e acurácia balanceada de 86,57% no teste, contra 69,81% e 50% do baseline. O modelo identifica 13 dos 16 doentes do teste e 34 dos 37 saudáveis.
 
 ## Como executar
+Para rodar o notebook basta executar o seguinte comando no terminal
+
 ```bash
-git clone <https://github.com/gabikbrown/Cubo_Gelatinoso.git>
+git clone https://github.com/gabikbrown/Cubo_Gelatinoso.git
 cd Cubo_Gelatinoso
-pip install numpy pandas seaborn matplotlib scikit-learn
-jupyter notebook CuboGelationoso_GabrielaCabral.ipynb
+pip install numpy pandas seaborn matplotlib scikit-learn notebook
+jupyter notebook CuboGelationoso_GabrielaCabral26.ipynb
 ```
 
 Com o `data.csv` na raiz do projeto, o notebook roda do início ao fim sem etapas manuais adicionais.
